@@ -1,3 +1,4 @@
 # Timestamp Microservice
 
-This is the boilerplate code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
+This fulfills 1/5 projects for FreeCodeCamp's Back End Development and APIs Projects
+You can view it here https://boilerplate-project-timestamp.chestercai5.repl.co/
